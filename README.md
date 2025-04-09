@@ -1,8 +1,3 @@
-Absolutely! Here's an updated and enriched `README.md` file that **includes a "How It Works"** section and **clearly explains how to run the project**, both using Docker and manually.
-
----
-
-```markdown
 # 🌾 Crop Prediction Model with Machine Learning and GUI (Dockerized)
 
 This repository contains a **full-stack crop prediction system** that combines Machine Learning with an interactive web interface. The backend is powered by a Flask API, while the frontend is built using React. The entire application is containerized with Docker for easy deployment and reproducibility.
