@@ -1,6 +1,6 @@
 # 🌾 Crop Prediction Model with Machine Learning and GUI (Dockerized)
 
-This repository contains a **full-stack crop prediction system** that combines Machine Learning with an interactive web interface. The backend is powered by a Flask API, while the frontend is built using React. The entire application is containerized with Docker for easy deployment and reproducibility.
+This repository contains a **full-stack crop prediction system** that combines Machine Learning with an interactive web interface. The backend is powered by a Flask API, while the frontend is built using React. The entire application is containerized with Docker for easy deployment and reproducibility on a Ubuntu-based system..
 
 ---
 
@@ -120,24 +120,3 @@ Crop-Prediction-using-ML/
 
 ---
 
-## 💡 Future Improvements
-
-- 🌦️ Add real-time weather data integration via API
-- 🗺️ GPS-based soil profile suggestions
-- 🔐 User authentication for data history
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙌 Contributing
-
-We welcome contributions! Feel free to open issues or submit pull requests for features, bugs, or enhancements.
-
-```
-
-Let me know if you’d like a version with **badges**, **screenshots**, or **GitHub Actions CI setup** — happy to help you pimp it out even more!
